@@ -1,0 +1,9 @@
+1 Arduino Uno with Cable
+
+6 Tactile Buttons
+8 LEDS (Any color)
+
+6 1K ohms Resistor
+8 220 ohms Resistor
+
+Jumping Wires
